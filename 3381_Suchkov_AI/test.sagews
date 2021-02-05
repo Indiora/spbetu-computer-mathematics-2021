@@ -1,2 +1,0 @@
-%md
-# Hello, world!

@@ -1,4 +1,4 @@
-# computer-mathematics-2021
+# spbetu-computer-mathematics-2021
 Курс "Компьютерная математика", кафедра АМ
 
 гр. 9303, 9304, 9381-9383
